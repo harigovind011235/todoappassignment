@@ -1,0 +1,34 @@
+
+body{
+    background-color: rgba(41, 8, 255, 0.158);
+}
+.login{
+    font: 20px;
+    align-items: center;
+    border: 3px groove black;
+    margin-left: 560px;
+    margin-right: 560px;
+    background-color: rgb(151, 135, 253);
+    height: 300px;
+}
+
+center{
+    position: relative;
+    top:300px;
+}
+
+input{
+    border: 1px solid black;
+}
+
+ul{
+    list-style-type: none;
+}
+
+#submit{
+    position: relative;
+    top:20px;
+    background-color: palevioletred;
+    width: 200px;
+    height: 30px;
+}
